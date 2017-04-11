@@ -2,3 +2,4 @@ bokeh==0.12.4
 numpy==1.11.1
 h5py==2.6.0
 ipywidgets==4.1.1
+sklearn
